@@ -1,0 +1,26 @@
+.tabela{
+    color: #fff;
+}
+
+.tabela td{
+    background-color: #424250;
+    color: #fff;
+    padding: 10px;
+}
+
+.tabela th{
+    padding: 10px;
+}
+
+.produtos-moda th{
+    background-color: #bb86fc;
+}
+
+.produtos-casa th{
+    background-color: #00c4b4;
+}
+
+h3{
+    margin-bottom: 5px;
+    margin-top: 25px;
+}
